@@ -1,0 +1,5 @@
+cd path/to/courier-software-suite
+git init
+git remote add origin https://github.com/yushi507/courier-software-suite.git
+git add .
+git commit -m "Initial commit - courier software backend"
